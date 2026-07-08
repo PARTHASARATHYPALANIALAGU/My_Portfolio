@@ -63,6 +63,3 @@ npm run build
 
 This will generate a `dist/` folder containing the compiled assets ready for deployment on platforms like Vercel, Netlify, or GitHub Pages.
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
